@@ -1,7 +1,7 @@
 import { CloseButton } from "../../CloseButton";
 
-interface FeedBackSuccessStepProps{
-  onFeedBackRestartRequested: () => void;
+interface FeedBackSuccessStepProps {
+	onFeedBackRestartRequested: () => void;
 }
 
 export function FeedBackSuccessStep({
